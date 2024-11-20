@@ -1,0 +1,4 @@
+output
+Gone Girl,Thriller,8.1,2014
+Se7en,Thriller,8.6,1995
+Zodiac,Thriller,7.7,2007
